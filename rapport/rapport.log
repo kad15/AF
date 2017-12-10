@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.17)  9 DEC 2017 14:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.17)  10 DEC 2017 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,7 +1336,7 @@ LaTeX Info: Redefining \nameref on input line 122.
 (d:/prog/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<images/ctrl2.jpg, id=123, 289.08pt x 192.72pt>
+<images/ctrl2.jpg, id=71, 289.08pt x 192.72pt>
 File: images/ctrl2.jpg Graphic file (type jpg)
 <use images/ctrl2.jpg>
 Package pdftex.def Info: images/ctrl2.jpg  used on input line 32. on input line
@@ -1404,159 +1404,116 @@ e same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.3 
-     [1]) (./sections/partie_1_concurrence.tex
-(d:/prog/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+     [1]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 10.
+ (d:/prog/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 20.
-
-LaTeX Font Info:    No file OMSlmss.fd. on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 10.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 10.
+)
+(./sections/partie_1.tex
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 9.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 9.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 20.
+(Font)              for symbol `textbullet' on input line 9.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-(d:/prog/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-1.def
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+<images/enac.png, id=96, 271.0125pt x 187.70125pt>
+File: images/enac.png Graphic file (type png)
+<use images/enac.png>
+Package pdftex.def Info: images/enac.png  used on input line 19. on input line 
+19.
+Package pdftex.def Info: Requested size: 271.01183pt x 187.70079pt on input lin
+e 19.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
+(d:/prog/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
- []
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 20.
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
-[3]) (./sections/partie_1_clients.tex) (./sections/partie_1_fournisseurs.tex
-[4]) (./sections/partie_1_entrants.tex) (./sections/partie_1_substituts.tex)
-(./sections/partie_2.tex [5]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-) (./sections/partie_3.tex [7]
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-) (./intro_conclusion/conclusion.tex) [8] [9] (./rapport.bbl
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 7.
-
-(d:/prog/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 2050) in paragraph at lines 16--22
-[]\T1/lmss/m/n/10.95 Cécile Bou-te-let.  La fin des vols de nuit à franc-fort r
-é-duira les bé-né-fices de luf-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--22
-\T1/lmtt/m/n/10.95 la-[]fin-[]des-[]vols-[]de-[]nuit-[]a-[]francfort-[]reduira-
-[]les-[]benefices-[]de-[]lufthansa _
- []
-
-
-Overfull \hbox (32.741pt too wide) in paragraph at lines 51--57
-\T1/lmtt/m/n/10.95 interdiction-[]des-[]vols-[]nocturnes-[]roissy-[]pourrait-[]
-il-[]suivre-[]l-[]exemple-[]de-[]francfort _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
-[][]$\T1/lmtt/m/n/10.95 http : / / www . lefigaro . fr / secteur / high-[]tech 
-/ 2016 / 12 / 14 /
- []
-
-
-Overfull \hbox (164.96187pt too wide) in paragraph at lines 78--83
-[][]$\T1/lmtt/m/n/10.95 http : / / lemonde . fr / economie / article / 2016 / 0
-4 / 21 / le-[]made-[]in-[]china-[]parcours-[]11-[]500-[]km-[]en-[]train-[]une-[
-]premiere _
- []
-
-) (./page-de-couverture/page_blanche.tex [10])
-(./page-de-couverture/quatrieme-de-couv.tex [11])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
-<images/ctrl1.jpg, id=273, 523.02832pt x 784.64572pt>
+[2 <./images/enac.png>]
+<images/meta_modele.png, id=111, 781.92125pt x 389.455pt>
+File: images/meta_modele.png Graphic file (type png)
+<use images/meta_modele.png>
+Package pdftex.def Info: images/meta_modele.png  used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 390.95967pt x 194.72702pt on input lin
+e 31.
+) (./sections/partie_2.tex
+<images/hierarchique.png, id=113, 489.32813pt x 703.87968pt>
+File: images/hierarchique.png Graphic file (type png)
+<use images/hierarchique.png>
+Package pdftex.def Info: images/hierarchique.png  used on input line 20. on inp
+ut line 20.
+Package pdftex.def Info: Requested size: 415.93086pt x 598.30055pt on input lin
+e 20.
+ [3 <./images/meta_modele.png (PNG copy)>] [4 <./images/hierarchique.png>]
+<images/atc.png, id=126, 636.87938pt x 229.60782pt>
+File: images/atc.png Graphic file (type png)
+<use images/atc.png>
+Package pdftex.def Info: images/atc.png  used on input line 32. on input line 3
+2.
+Package pdftex.def Info: Requested size: 477.65836pt x 172.20543pt on input lin
+e 32.
+) (./sections/partie_3.tex
+<images/atc_component.png, id=127, 274.02374pt x 1276.01718pt>
+File: images/atc_component.png Graphic file (type png)
+<use images/atc_component.png>
+Package pdftex.def Info: images/atc_component.png  used on input line 7. on inp
+ut line 7.
+Package pdftex.def Info: Requested size: 137.01154pt x 638.00703pt on input lin
+e 7.
+ [5 <./images/atc.png>]) (./intro_conclusion/conclusion.tex) [6 <./images/atc_c
+omponent.png>] [7] (./page-de-couverture/page_blanche.tex)
+(./page-de-couverture/quatrieme-de-couv.tex [8])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+<images/ctrl1.jpg, id=150, 523.02832pt x 784.64572pt>
 File: images/ctrl1.jpg Graphic file (type jpg)
 <use images/ctrl1.jpg>
-Package pdftex.def Info: images/ctrl1.jpg  used on input line 172. on input lin
-e 172.
+Package pdftex.def Info: images/ctrl1.jpg  used on input line 167. on input lin
+e 167.
 Package pdftex.def Info: Requested size: 866.42314pt x 845.0581pt on input line
- 172.
- [12 <./images/ctrl1.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
+ 167.
+ [9 <./images/ctrl1.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
 
 (./rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 4173E1FA7608B6219A02733D8D518CB8;1960.
+(rerunfilecheck)             Checksum: 0C7FC14A452C0B87BEB3B08A6DBD6200;679.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 27596 strings out of 492985
- 507655 string characters out of 6133958
- 912933 words of memory out of 5000000
- 30402 multiletter control sequences out of 15000+600000
- 52354 words of font info for 59 fonts, out of 8000000 for 9000
+ 26762 strings out of 492985
+ 498699 string characters out of 6133958
+ 906933 words of memory out of 5000000
+ 29592 multiletter control sequences out of 15000+600000
+ 73831 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,82p,996b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{cite.RePEc\\penalty\040\\@M\040\040:eee\\penalty\
-040\\@M\040\040:jaitra\\penalty\040\\@M\040\040:v\\penalty\040\\@M\040\040:61\\
-penalty\040\\@M\040\040:y\\penalty\040\\@M\040\040:2017\\penalty\040\\@M\040\04
-0:i\\penalty\040\\@M\040\040:c\\penalty\040\\@M\040\040:p\\penalty\040\\@M\040\
-040:34-40} has been referenced but does not exist, replaced by a fixed one
-
-{d:/prog/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/prog/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/prog/texlive/2017
-/texmf-dist/fonts/type1/public/lm/lmss10.pfb><d:/prog/texlive/2017/texmf-dist/f
-onts/type1/public/lm/lmssbx10.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1/
-public/lm/lmsso10.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lm
-tt10.pfb>
-Output written on rapport.pdf (13 pages, 6066201 bytes).
+ 63i,12n,82p,807b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/prog/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/prog/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/prog/texlive/20
+17/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/prog/texlive/2017/texmf-dis
+t/fonts/type1/public/lm/lmss10.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1
+/public/lm/lmss8.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lms
+s9.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/
+prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
+Output written on rapport.pdf (10 pages, 6146097 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 272 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
