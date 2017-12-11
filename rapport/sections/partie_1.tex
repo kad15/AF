@@ -16,7 +16,7 @@ Les acteurs environnementaux n'ont pas été pris en compte. La référence GPS 
 
 	\begin{figure}[H]
 	\begin{center}	
-		\includegraphics[scale=1.0]{images/enac}
+		\includegraphics[scale=0.35]{images/ctx}
 		\caption{Diagramme de contexte du système ATC}
 		\label{ctx}
 	\end{center}
@@ -44,4 +44,4 @@ Les données manipulées sont les suivantes :
 \end{itemize}
 
 La position d'un aéronef vu par un radar primaire ne donne que la distance et l'azimut. Les radars secondaires donnent en outre l'altitude et l'identifiant de l'appareil. Les positions radar doivent être converties en longitude/latitude WGS84 pour pouvoir être affichées. Ce dernier point n'a pas été pris en compte explicitement dans le modèle. En outre, le modèle CORE
-ne distingue pas clairement entre position 2D des radars primaires et 3D des radars secondaires ; les fonctions de traitements spécifiques ont été supprimées pour limiter la taille des  graphes hiérarchiques et EFFBD. Ceci constitue cependant un écart essentiel par rapport au cahier des charges de l'énoncé.
+ne distingue pas clairement entre position 2D des radars primaires et 3D des radars secondaires ; les fonctions de traitements spécifiques, ainsi que d'autres fonctions, ont été supprimées pour limiter la taille des  graphes hiérarchiques et EFFBD. Ceci constitue un écart par rapport au cahier des charges de l'énoncé mais reste dans l'esprit de l'exercice.
