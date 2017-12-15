@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.17)  15 DEC 2017 09:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.11.17)  15 DEC 2017 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1415,8 +1415,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 10.
+<images/v.png, id=111, 601.24625pt x 334.24875pt>
+File: images/v.png Graphic file (type png)
+<use images/v.png>
+Package pdftex.def Info: images/v.png  used on input line 14. on input line 14.
+
+Package pdftex.def Info: Requested size: 300.62238pt x 167.12396pt on input lin
+e 14.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 15.
+
+(d:/prog/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-(./sections/partie_1.tex
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 15.
+
+) (./sections/partie_1.tex [2 <./images/v.png>]
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 9.
 LaTeX Font Info:    No file OMSlmss.fd. on input line 9.
 
@@ -1425,7 +1440,7 @@ LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 9.
 
-<images/ctx.png, id=111, 1390.1347pt x 759.54353pt>
+<images/ctx.png, id=127, 1390.1347pt x 759.54353pt>
 File: images/ctx.png Graphic file (type png)
 <use images/ctx.png>
 Package pdftex.def Info: images/ctx.png  used on input line 19. on input line 1
@@ -1437,33 +1452,23 @@ Overfull \hbox (2.85757pt too wide) in paragraph at lines 19--20
  [] 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
-(d:/prog/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 20.
-
-[2]
-<images/meta_modele.png, id=125, 781.92125pt x 389.455pt>
+<images/meta_modele.png, id=129, 781.92125pt x 389.455pt>
 File: images/meta_modele.png Graphic file (type png)
 <use images/meta_modele.png>
 Package pdftex.def Info: images/meta_modele.png  used on input line 31. on inpu
 t line 31.
 Package pdftex.def Info: Requested size: 390.95967pt x 194.72702pt on input lin
 e 31.
- [3 <./images/ctx.png> <./images/meta_modele.png (PNG copy)>])
-(./sections/partie_2.tex
-<images/hierarchique.png, id=134, 489.32813pt x 703.87968pt>
+[3 <./images/ctx.png>]) (./sections/partie_2.tex
+<images/hierarchique.png, id=138, 489.32813pt x 703.87968pt>
 File: images/hierarchique.png Graphic file (type png)
 <use images/hierarchique.png>
 Package pdftex.def Info: images/hierarchique.png  used on input line 20. on inp
 ut line 20.
 Package pdftex.def Info: Requested size: 415.93086pt x 598.30055pt on input lin
 e 20.
- [4]
-<images/atc.png, id=142, 636.87938pt x 229.60782pt>
+ [4 <./images/meta_modele.png (PNG copy)>]
+<images/atc.png, id=145, 636.87938pt x 229.60782pt>
 File: images/atc.png Graphic file (type png)
 <use images/atc.png>
 Package pdftex.def Info: images/atc.png  used on input line 32. on input line 3
@@ -1477,7 +1482,7 @@ VRABLES _ ATC _ YUAN _ BELDJILALI / question %
  []
 
 ) (./sections/partie_3.tex
-<images/atc_component.png, id=149, 274.02374pt x 1276.01718pt>
+<images/atc_component.png, id=152, 274.02374pt x 1276.01718pt>
 File: images/atc_component.png Graphic file (type png)
 <use images/atc_component.png>
 Package pdftex.def Info: images/atc_component.png  used on input line 7. on inp
@@ -1485,7 +1490,7 @@ ut line 7.
 Package pdftex.def Info: Requested size: 123.30954pt x 574.20242pt on input lin
 e 7.
  [6 <./images/atc.png>] [7 <./images/atc_component.png>]
-<images/trace_fc.png, id=168, 828.09375pt x 526.21594pt>
+<images/trace_fc.png, id=171, 828.09375pt x 526.21594pt>
 File: images/trace_fc.png Graphic file (type png)
 <use images/trace_fc.png>
 Package pdftex.def Info: images/trace_fc.png  used on input line 24. on input l
@@ -1500,7 +1505,7 @@ e 24.
 
 pdfTeX warning: pdflatex.exe (file ./images/tfio.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<images/tfio.pdf, id=185, pagebox=cropbox, 845.07724pt x 597.55246pt>
+<images/tfio.pdf, id=188, pagebox=cropbox, 845.07724pt x 597.55246pt>
 File: images/tfio.pdf Graphic file (type pdf)
 <use images/tfio.pdf>
 Package pdftex.def Info: images/tfio.pdf  used on input line 47. on input line 
@@ -1511,7 +1516,7 @@ e 47.
 
 pdfTeX warning: pdflatex.exe (file ./images/tfio2.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<images/tfio2.pdf, id=186, pagebox=cropbox, 845.07724pt x 597.55246pt>
+<images/tfio2.pdf, id=189, pagebox=cropbox, 845.07724pt x 597.55246pt>
 File: images/tfio2.pdf Graphic file (type pdf)
 <use images/tfio2.pdf>
 Package pdftex.def Info: images/tfio2.pdf  used on input line 59. on input line
@@ -1526,7 +1531,7 @@ e 59.
 ] (./page-de-couverture/page_blanche.tex) (./page-de-couverture/quatrieme-de-co
 uv.tex [13])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-<images/ctrl1.jpg, id=244, 523.02832pt x 784.64572pt>
+<images/ctrl1.jpg, id=247, 523.02832pt x 784.64572pt>
 File: images/ctrl1.jpg Graphic file (type jpg)
 <use images/ctrl1.jpg>
 Package pdftex.def Info: images/ctrl1.jpg  used on input line 167. on input lin
@@ -1548,10 +1553,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 26823 strings out of 492985
- 499469 string characters out of 6133958
- 906931 words of memory out of 5000000
- 29623 multiletter control sequences out of 15000+600000
+ 26830 strings out of 492985
+ 499552 string characters out of 6133958
+ 905931 words of memory out of 5000000
+ 29628 multiletter control sequences out of 15000+600000
  82146 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,12n,82p,897b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1563,10 +1568,10 @@ t/fonts/type1/public/lm/lmss10.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1
 ss8.pfb><d:/prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:
 /prog/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><d:/prog/texlive
 /2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on rapport.pdf (15 pages, 6618303 bytes).
+Output written on rapport.pdf (15 pages, 6653079 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 263 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 295 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
 
