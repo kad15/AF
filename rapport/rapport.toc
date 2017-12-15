@@ -9,14 +9,16 @@
 \contentsline {section}{\numberline {2}Aspect fonctionnelle}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}D\IeC {\'e}composition fonctionnelle}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Sc\IeC {\'e}nario fonctionnel}{5}{subsection.2.2}
+\contentsline {paragraph}{Sc\IeC {\'e}nario complet : }{6}{section*.6}
 \contentsline {section}{\numberline {3}Aspect produits }{7}{section.3}
 \contentsline {subsection}{\numberline {3.1} Description graphique de la d\IeC {\'e}composition produit }{7}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2} Matrice de tra\IeC {\c c}abilit\IeC {\'e} Fonctions / composants }{8}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3} Matrice de tra\IeC {\c c}abilit\IeC {\'e} fonctions/input/output }{9}{subsection.3.3}
-\contentsline {paragraph}{}{9}{section*.6}
 \contentsline {paragraph}{}{9}{section*.7}
-\contentsline {section}{Conclusion}{12}{section*.8}
-\contentsline {paragraph}{}{12}{section*.9}
+\contentsline {paragraph}{}{9}{section*.8}
+\contentsline {section}{Conclusion}{12}{section*.9}
 \contentsline {paragraph}{}{12}{section*.10}
 \contentsline {paragraph}{}{12}{section*.11}
 \contentsline {paragraph}{}{12}{section*.12}
+\contentsline {paragraph}{}{12}{section*.13}
+\contentsline {paragraph}{}{12}{section*.14}

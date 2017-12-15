@@ -10,14 +10,14 @@
 	\end{center}
 \end{figure}
 
-
+NB : Pour le tracé du diagramme ER, un composant conteneur abstrait atc\_component a été créé.
 
 
 \begin{landscape}	
 	\subsection{ Matrice de traçabilité Fonctions / composants }
 	
 	
-	L'ensemble des fonctions vers l'ensemble des composants doit être une application surjective ; une fonction ne peut être assurée par deux composants différents dans le modèle Vitech core. Par contre, plusieurs composants peuvent effectuer la même fonction. La matrice de la figure \ref{fc} montre une couverture exhaustive des fonctions feuille par les composants du système. En particulier, la contrainte d'affichage unique de l'énoncé est respectée.
+	L'ensemble des fonctions vers l'ensemble des composants doit être une application surjective ; une fonction ne peut être assurée par deux composants différents dans le modèle Vitech core. Par contre, plusieurs composants peuvent effectuer la même fonction. La matrice de la figure \ref{fc} montre une couverture exhaustive des fonctions feuille par les composants du système. En particulier, la contrainte d'affichage sur un écran unique énoncée dans les spécifications est respectée.
 	
 	\begin{figure}[H]
 		\begin{center}	
@@ -35,7 +35,7 @@ La matrice de traçabilité présentée dans les figures \ref{tfio} et \ref{tfio
 En effet, malgré l'utilisation du diagramme N2, des oublis ont persisté ; seules les vues tabulaires permettent l'exhaustivité en mettant en évidence les manques. Ceci facilite l'approche récursive ou itérative propre à tout processus de conception ou développement. 
 
 \paragraph{}
-On regrettera le fait que les tables dans CORE ne puissent pas être directement générées au format latex. 
+On regrettera le fait que les tables dans CORE ne puissent pas être directement générées au format \LaTeX.
 
 \paragraph{}
 Enfin, nous avons noté que le processus itératif se nourrit aussi des divergences potentielles entre l'ensemble des composants et celui des fonctions. On peut ainsi être amené à décomposer une fonction en sous fonctions ou un composant en sous composant. On arrive ainsi à une granularité optimale du FBS et du PBS  par "convergence des deux mondes".  
